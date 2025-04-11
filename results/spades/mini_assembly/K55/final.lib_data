@@ -1,0 +1,34 @@
+ê
+---
+max read length: 511
+nomerge max read length: 511
+average read length: 246.364
+average coverage: 2.34914
+libraries:
+  - type:            single
+    number:          1
+    single reads:
+      - '/home/nlowe6/Nextflow_workflow/work/c2/a8a8292a4488cb96d57bf2e529f3a7/mini_assembly/corrected/mini_cleaned.fastq.00.0_0.cor.fastq.gz'
+    data:
+      unmerged read length: 511
+      merged read length: 0
+      insert size mean: 0
+      insert size deviation: 0
+      insert size left quantile: 0
+      insert size right quantile: 0
+      insert size median: 0
+      insert size mad: 0
+      insert size distribution: {  }
+      pi threshold:    0
+      binary reads info:
+        binary converted: true
+        bin reads info file: '/home/nlowe6/Nextflow_workflow/work/c2/a8a8292a4488cb96d57bf2e529f3a7/mini_assembly/.bin_reads/INFO_0'
+        paired read prefix: '/home/nlowe6/Nextflow_workflow/work/c2/a8a8292a4488cb96d57bf2e529f3a7/mini_assembly/.bin_reads/paired_0'
+        merged read prefix: '/home/nlowe6/Nextflow_workflow/work/c2/a8a8292a4488cb96d57bf2e529f3a7/mini_assembly/.bin_reads/merged_0'
+        single read prefix: '/home/nlowe6/Nextflow_workflow/work/c2/a8a8292a4488cb96d57bf2e529f3a7/mini_assembly/.bin_reads/single_0'
+        chunk num:       4
+      single reads mapped: true
+      library index:   0
+      number of reads: 18820
+      total nucleotides: 4636572
+...

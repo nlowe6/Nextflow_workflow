@@ -1,0 +1,35 @@
+Command line: /home/nlowe6/Nextflow_workflow/work/conda/env-257a497e02dea9b77fdecd4174af9f07/bin/spades.py	--sc	-s	/home/nlowe6/Nextflow_workflow/work/c2/a8a8292a4488cb96d57bf2e529f3a7/mini_cleaned.fastq.gz	-o	/home/nlowe6/Nextflow_workflow/work/c2/a8a8292a4488cb96d57bf2e529f3a7/mini_assembly	-t	4	
+
+System information:
+  SPAdes version: 3.15.5
+  Python version: 3.13.3
+  OS: Linux-5.15.167.4-microsoft-standard-WSL2-x86_64-with-glibc2.35
+
+Output dir: /home/nlowe6/Nextflow_workflow/work/c2/a8a8292a4488cb96d57bf2e529f3a7/mini_assembly
+Mode: read error correction and assembling
+Debug mode is turned OFF
+
+Dataset parameters:
+  Single-cell mode
+  Reads:
+    Library number: 1, library type: single
+      left reads: not specified
+      right reads: not specified
+      interlaced reads: not specified
+      single reads: ['/home/nlowe6/Nextflow_workflow/work/c2/a8a8292a4488cb96d57bf2e529f3a7/mini_cleaned.fastq.gz']
+      merged reads: not specified
+Read error correction parameters:
+  Iterations: 1
+  PHRED offset will be auto-detected
+  Corrected reads will be compressed
+Assembly parameters:
+  k: [21, 33, 55]
+  Repeat resolution is enabled
+  Mismatch careful mode is turned OFF
+  MismatchCorrector will be SKIPPED
+  Coverage cutoff is turned OFF
+Other parameters:
+  Dir for temp files: /home/nlowe6/Nextflow_workflow/work/c2/a8a8292a4488cb96d57bf2e529f3a7/mini_assembly/tmp
+  Threads: 4
+  Memory limit (in Gb): 5
+

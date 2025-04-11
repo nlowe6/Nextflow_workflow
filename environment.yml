@@ -1,0 +1,9 @@
+name: nf
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - nextflow=24.10.5
+  - fastp
+  - spades
+  - seqkit

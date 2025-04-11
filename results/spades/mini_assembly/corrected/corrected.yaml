@@ -1,0 +1,4 @@
+- "number": !!int "1"
+  "single reads":
+  - "/home/nlowe6/Nextflow_workflow/work/c2/a8a8292a4488cb96d57bf2e529f3a7/mini_assembly/corrected/mini_cleaned.fastq.00.0_0.cor.fastq.gz"
+  "type": "single"
