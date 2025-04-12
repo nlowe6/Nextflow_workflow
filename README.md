@@ -21,7 +21,7 @@ FASTP (QC) ─┬─> SPADES (Assembly)
 
 1. Clone this repository:
 ```bash
-git clone <your-repo-url>
+git clone git@github.com:nlowe6/Nextflow_workflow.git
 cd Nextflow_workflow
 ```
 
