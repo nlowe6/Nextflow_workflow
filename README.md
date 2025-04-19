@@ -15,7 +15,7 @@ FASTP (QC) ─┬─> SPADES (Assembly)
 
 - Nextflow (v24.10.5)
 - Conda (v24.7.1)
-- WSL2 (Windows 11)
+- WSL2 or Linux
 
 ## Quick Start
 
